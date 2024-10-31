@@ -1,2 +1,3 @@
 #code is changed by priyanka
+#this code is writen by karan
 this is 1st text file
